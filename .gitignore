@@ -1,0 +1,7 @@
+a*.exe
+*.obj
+**/html/
+*.txt
+.gitignore
+.vscode/
+*.ps1
