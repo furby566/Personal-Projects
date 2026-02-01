@@ -1,10 +1,14 @@
-a*.exe
-*.obj
-**/html/
-*.txt
-.gitignore
-.vscode/
-*.ps1
-/Cpp/Project1/.vs/Project1/FileContentIndex/a6fc75c6-1adb-440d-b7fe-086199d75e97.vsidx
-/Cpp/Project1/.vs/Project1/FileContentIndex/d970746d-be7f-4bad-b92e-48067d202f6e.vsidx
-/Cpp/Project1/.vs/Project1/FileContentIndex/da6c63a8-d97b-4294-8f46-4e8b8d05e5ad.vsidx
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Personal-Projects/FileContentIndex/6488d137-3e07-475d-aa3b-a466e83afb20.vsidx
+/.vs/Personal-Projects/FileContentIndex/88a5d855-85a3-49e3-aa9a-5f46d4efe98c.vsidx
+/.vs/Personal-Projects/FileContentIndex/c036a4ae-dfb9-4616-8a71-ef3ba289bef4.vsidx
+/.vs/Personal-Projects/v17/.wsuo
+/.vs/Personal-Projects/v17/Browse.VC.db
+/.vs/Personal-Projects/v17/Solution.VC.db
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/CppProperties.json
